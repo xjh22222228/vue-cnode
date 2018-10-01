@@ -1,7 +1,0 @@
-/*!*
- *  https://github.com/xjh22222228/vue-cnode
- */.msg-list{background:#fff;padding:10px;position:relative}.msg-list .msg-loading{background:#f7f7f7;height:20px;left:10px;position:absolute;right:10px;top:10px}.msg-list li{padding:10px 0}.msg-list li:not(:last-child){border-bottom:1px solid #f6f6f6}.msg-list li>div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.msg-list li a{color:#08c}.msg-list li a:hover{text-decoration:underline}
-
-/*!*
- *  https://github.com/xjh22222228/vue-cnode
- */.messages .top{background:#f6f6f6;padding:10px}.messages .top a{color:#80bd01}.messages .top a:hover{text-decoration:underline}.messages .top em{color:#ccc}.messages .top span{color:#999}.messages .msg-list{background:#fff;padding:10px;position:relative}.messages .msg-list .msg-loading{background:#f7f7f7;height:20px;left:10px;position:absolute;right:10px;top:10px}.messages .msg-list li{padding:10px 0}.messages .msg-list li:not(:last-child){border-bottom:1px solid #f6f6f6}.messages .msg-list li>div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.messages .msg-list li a{color:#08c}.messages .msg-list li a:hover{text-decoration:underline}.messages .past-times{margin-top:15px}

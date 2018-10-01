@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.3addbcafbb84beb36f582a7afb782730.js"
+  "precache-manifest.0f80df8b1ee254d31cb3d417073be572.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-cnode"});
